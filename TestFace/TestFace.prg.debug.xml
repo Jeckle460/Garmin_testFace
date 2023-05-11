@@ -11,7 +11,7 @@
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceApp.mc" id="5" lineNum="7" parent="globals/TestFaceApp" pc="268435551" symbol="initialize"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceApp.mc" id="5" lineNum="8" parent="globals/TestFaceApp" pc="268435553" symbol="initialize"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceApp.mc" id="6" lineNum="16" parent="globals/TestFaceApp" pc="268435572" symbol="onStop"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="7" lineNum="7" parent="globals/Rez" pc="268435575" symbol="&lt;init&gt;"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="7" lineNum="7" parent="globals/Rez" pc="268435575" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceView.mc" id="8" lineNum="6" parent="globals/TestFaceView" pc="268435599" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceView.mc" id="11" lineNum="13" parent="globals/TestFaceView" pc="268435618" symbol="onLayout"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceView.mc" id="11" lineNum="14" parent="globals/TestFaceView" pc="268435620" symbol="onLayout"/>
@@ -23,12 +23,12 @@
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceView.mc" id="15" lineNum="28" parent="globals/TestFaceView" pc="268435778" symbol="onUpdate"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceView.mc" id="15" lineNum="29" parent="globals/TestFaceView" pc="268435806" symbol="onUpdate"/>
 <entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\source\\TestFaceView.mc" id="15" lineNum="32" parent="globals/TestFaceView" pc="268435820" symbol="onUpdate"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268435845" symbol="WatchFace"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="16" lineNum="21" parent="globals/Rez/Layouts" pc="268435857" symbol="WatchFace"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="16" lineNum="23" parent="globals/Rez/Layouts" pc="268435992" symbol="WatchFace"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="16" lineNum="25" parent="globals/Rez/Layouts" pc="268436104" symbol="WatchFace"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="16" lineNum="26" parent="globals/Rez/Layouts" pc="268436209" symbol="WatchFace"/>
-<entry filename="C:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\bin\\gen\\006-B3110-00\\source\\Rez.mcgen" id="16" lineNum="28" parent="globals/Rez/Layouts" pc="268436246" symbol="WatchFace"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="16" lineNum="20" parent="globals/Rez/Layouts" pc="268435845" symbol="WatchFace"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="16" lineNum="21" parent="globals/Rez/Layouts" pc="268435857" symbol="WatchFace"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="16" lineNum="23" parent="globals/Rez/Layouts" pc="268435992" symbol="WatchFace"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="16" lineNum="25" parent="globals/Rez/Layouts" pc="268436104" symbol="WatchFace"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="16" lineNum="26" parent="globals/Rez/Layouts" pc="268436209" symbol="WatchFace"/>
+<entry filename="c:\\Users\\kerba\\Desktop\\GarminDev\\TestFace\\gen\\006-B3111-00\\source\\Rez.mcgen" id="16" lineNum="28" parent="globals/Rez/Layouts" pc="268436246" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry field="true" id="14" symbol="img"/>
@@ -88,7 +88,7 @@
 <entry endPc="268435843" name="view" stackId="4" startPc="268435687"/>
 <entry arg="true" endPc="268436282" name="dc" stackId="1" startPc="268435845"/>
 <entry endPc="268436282" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268435857"/>
-<entry endPc="268436282" name="rez_cmp_local_text_1149157698" stackId="3" startPc="268435857"/>
+<entry endPc="268436282" name="rez_cmp_local_text_4050712201" stackId="3" startPc="268435857"/>
 <entry endPc="268436282" name="rez_cmp_local_bitmap_img" stackId="4" startPc="268435857"/>
 </localVars>
 <annotations>
