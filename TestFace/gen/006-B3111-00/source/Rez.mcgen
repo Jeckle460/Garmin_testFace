@@ -20,12 +20,12 @@ module Rez {
         function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
             var rez_cmp_local_text_TimeLabel = new WatchUi.Text({:identifier=>"TimeLabel", :color=>Graphics.COLOR_RED, :locX=>(240 * 0.5), :locY=>((240 - dc.getFontHeight(Graphics.FONT_LARGE)) * 0.5), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_LARGE});
 
-            var rez_cmp_local_text_1149157698 = new WatchUi.Text({:color=>Graphics.COLOR_GREEN, :locX=>(240 * 0.5), :locY=>(240 * (25 / 100.0)), :text=>"The time is:..", :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+            var rez_cmp_local_text_4050712201 = new WatchUi.Text({:color=>Graphics.COLOR_GREEN, :locX=>(240 * 0.5), :locY=>(240 * (25 / 100.0)), :text=>"The time is:..", :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
 
             var rez_cmp_local_bitmap_img = new WatchUi.Bitmap({:identifier=>"img", :rezId=>$.Rez.Drawables.img, :locX=>WatchUi.LAYOUT_HALIGN_CENTER, :locY=>(240 * (75 / 100.0))});
             rez_cmp_local_bitmap_img.setLocation(((240 - rez_cmp_local_bitmap_img.width) * 0.5), (240 * (75 / 100.0)));
 
-            return [rez_cmp_local_text_TimeLabel, rez_cmp_local_text_1149157698, rez_cmp_local_bitmap_img] as Array<WatchUi.Drawable>;
+            return [rez_cmp_local_text_TimeLabel, rez_cmp_local_text_4050712201, rez_cmp_local_bitmap_img] as Array<WatchUi.Drawable>;
         }
     } // Layouts
 

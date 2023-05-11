@@ -1,50 +1,50 @@
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 1; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 1; ]
 import Toybox.Lang;
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 2; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 2; ]
 using Toybox.WatchUi;
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 3; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 3; ]
 using Toybox.WatchUi as :Ui;
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 4; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 4; ]
 using Toybox.Graphics;
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 5; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 5; ]
 using Toybox.Graphics as :Gfx;
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 7; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 7; ]
 module Rez {
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 7; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 7; ]
     <init> {
     }
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 8; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 8; ]
     module Drawables {
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 8; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 8; ]
         <init> {
         }
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 9; @position = 27; initialized = true; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 9; @position = 27; initialized = true; ]
         var img as Symbol;
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 10; @position = 27; initialized = true; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 10; @position = 27; initialized = true; ]
         var LauncherIcon as Symbol;
     }
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 13; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 13; ]
     module Fonts {
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 13; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 13; ]
         <init> {
         }
     }
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 16; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 16; ]
     module JsonData {
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 16; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 16; ]
         <init> {
         }
     }
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 19; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 19; ]
     module Layouts {
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 19; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 19; ]
         <init> {
         }
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 20; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 20; ]
         function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
-C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_start:
-[ "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen" 21 12 ]
-            [ "C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_start" "C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_stop" ]
+c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_start:
+[ "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen" 21 12 ]
+            [ "c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_start" "c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_stop" ]
             %rez_cmp_local_text_TimeLabel.1 = local;
             %tmp.3 = getm $.Toybox.WatchUi;
             %tmp.4 = getv function ? %tmp.3 :Text;
@@ -88,9 +88,9 @@ C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_2
             %tmp.48 = aputv %tmp.47 %tmp.44 %tmp.46;
             %tmp.1 = newc %tmp.4 (%tmp.48);
             lputv %rez_cmp_local_text_TimeLabel.1 %tmp.1;
-[ "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen" 23 12 ]
-            [ "C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_start" "C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_stop" ]
-            %rez_cmp_local_text_1149157698.2 = local;
+[ "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen" 23 12 ]
+            [ "c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_start" "c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_stop" ]
+            %rez_cmp_local_text_4050712201.2 = local;
             %tmp.51 = getm $.Toybox.WatchUi;
             %tmp.52 = getv function ? %tmp.51 :Text;
             %tmp.53 = newd 6;
@@ -128,9 +128,9 @@ C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_2
             %tmp.91 = dup %tmp.86;
             %tmp.92 = aputv %tmp.91 %tmp.88 %tmp.90;
             %tmp.49 = newc %tmp.52 (%tmp.92);
-            lputv %rez_cmp_local_text_1149157698.2 %tmp.49;
-[ "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen" 25 12 ]
-            [ "C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_start" "C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_stop" ]
+            lputv %rez_cmp_local_text_4050712201.2 %tmp.49;
+[ "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen" 25 12 ]
+            [ "c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_start" "c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_stop" ]
             %rez_cmp_local_bitmap_img.3 = local;
             %tmp.95 = getm $.Toybox.WatchUi;
             %tmp.96 = getv function ? %tmp.95 :Bitmap;
@@ -161,7 +161,7 @@ C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_2
             %tmp.125 = aputv %tmp.124 %tmp.118 %tmp.123;
             %tmp.93 = newc %tmp.96 (%tmp.125);
             lputv %rez_cmp_local_bitmap_img.3 %tmp.93;
-[ "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen" 26 12 ]
+[ "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen" 26 12 ]
             %tmp.126 = lgetv %rez_cmp_local_bitmap_img.3;
             %tmp.127 = getv function %tmp.126 :setLocation;
             %tmp.128 = 240;
@@ -176,36 +176,36 @@ C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_2
             %tmp.137 = div %tmp.135 %tmp.136;
             %tmp.138 = mul %tmp.134 %tmp.137;
             invoke %tmp.126 %tmp.127(%tmp.133, %tmp.138);
-[ "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen" 28 12 ]
+[ "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen" 28 12 ]
             %tmp.139 = newa Array<WatchUi.Drawable> 3;
             %tmp.141 = lgetv %rez_cmp_local_text_TimeLabel.1;
             %tmp.142 = dup %tmp.139;
             %tmp.143 = aputv %tmp.142 0 %tmp.141;
-            %tmp.145 = lgetv %rez_cmp_local_text_1149157698.2;
+            %tmp.145 = lgetv %rez_cmp_local_text_4050712201.2;
             %tmp.146 = dup %tmp.143;
             %tmp.147 = aputv %tmp.146 1 %tmp.145;
             %tmp.149 = lgetv %rez_cmp_local_bitmap_img.3;
             %tmp.150 = dup %tmp.147;
             %tmp.151 = aputv %tmp.150 2 %tmp.149;
             ret %tmp.151;
-C_Users_kerba_Desktop_GarminDev_TestFace_bin_gen_006_B3110_00_source_Rez_mcgen_20_73_stop:
+c_Users_kerba_Desktop_GarminDev_TestFace_gen_006_B3111_00_source_Rez_mcgen_20_73_stop:
         }
     }
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 32; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 32; ]
     module Menus {
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 32; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 32; ]
         <init> {
         }
     }
-    [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 35; ]
+    [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 35; ]
     module Strings {
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 35; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 35; ]
         <init> {
         }
-        [ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 36; @position = 27; initialized = true; ]
+        [ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 36; @position = 27; initialized = true; ]
         var AppName as Symbol;
     }
 }
-[ @file = "C:\Users\kerba\Desktop\GarminDev\TestFace\bin\gen\006-B3110-00\source\Rez.mcgen"; @line = 1; ]
+[ @file = "c:\Users\kerba\Desktop\GarminDev\TestFace\gen\006-B3111-00\source\Rez.mcgen"; @line = 1; ]
 <init> {
 }
